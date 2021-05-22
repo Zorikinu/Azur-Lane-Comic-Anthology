@@ -4,7 +4,15 @@
   "artist": "Various",
   "author": "Various",
   "cover": "https://i.imgur.com/wYORlBg.jpg",
-  "chapters": {
+  "chapters": {  
+     "01": {
+      "title": "Let's Aim For A Scoop!",
+      "volume": "09",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/o7u2x35/"
+      },
+      "last_updated": "1616368746"
+    },
     "01": {
       "title": "How Bache Makes Sense Of Things",
       "volume": "10",
